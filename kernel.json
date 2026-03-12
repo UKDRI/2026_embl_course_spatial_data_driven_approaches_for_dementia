@@ -1,0 +1,14 @@
+{
+ "argv": ["/usr/bin/singularity",
+   "exec",
+   "-B /storage",
+   "/home/nikolai/containers/spatialdata/spatialdata_latest.sif",
+   "python",
+   "-m",
+   "ipykernel",
+   "-f",
+   "{connection_file}"
+ ],
+ "language": "python",
+ "display_name": "SpatialData (apptainer)"
+}
