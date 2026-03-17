@@ -55,4 +55,6 @@ RUN pip install --no-cache-dir setuptools==80.9.0 \
 	squidpy \
 	leidenalg \ 
 	ipywidgets \
-	ipykernel
+	ipykernel \
+	cmap \
+	UpSetPlot
