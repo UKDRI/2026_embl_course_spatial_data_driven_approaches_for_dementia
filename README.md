@@ -13,9 +13,8 @@ Part 1: [part1_introduction_spatialdata_analysis.ipynb](https://github.com/UKDRI
 * Clustering and Marker genes
 * Detecting spatially variable genes
 
-In part 1, we are analysing 10x Genomics Xenium data from an Alzheimer's mouse model:
+In part 1, we are analysing 10x Genomics Xenium data from an Alzheimer's mouse model: [Xenium In Situ Analysis of Alzheimer's Disease Mouse Model Brain Coronal Sections from One Hemisphere Over a Time Course dataset](https://www.10xgenomics.com/datasets/xenium-in-situ-analysis-of-alzheimers-disease-mouse-model-brain-coronal-sections-from-one-hemisphere-over-a-time-course-1-standard), In Situ Gene Expression dataset analyzed using Xenium Onboard Analysis 1.4.0, 10x Genomics (CC BY 4.0 2023, July 13)
 
-[Xenium In Situ Analysis of Alzheimer's Disease Mouse Model Brain Coronal Sections from One Hemisphere Over a Time Course dataset](https://www.10xgenomics.com/datasets/xenium-in-situ-analysis-of-alzheimers-disease-mouse-model-brain-coronal-sections-from-one-hemisphere-over-a-time-course-1-standard), In Situ Gene Expression dataset analyzed using Xenium Onboard Analysis 1.4.0, 10x Genomics (CC BY 4.0 2023, July 13)
 ---
 
 Part 2: [part2_segmentation_workshop.ipynb](https://github.com/UKDRI/2026_embl_course_spatial_data_driven_approaches_for_dementia/blob/main/part2_segmentation_workshop.ipynb)
