@@ -17,4 +17,10 @@ In part 1, we are analysing 10x Genomics Xenium data from an Alzheimer's mouse m
 ---
 
 Part 2: [part2_segmentation_workshop.ipynb](https://github.com/UKDRI/2026_embl_course_spatial_data_driven_approaches_for_dementia/blob/main/part2_segmentation_workshop.ipynb)
-* impact of cell segmentation
+* Load pre-segmented spatialdata objects
+* Explore different kinds of segmentation
+* Observe the effects of transcript misallocation on cell type assignment
+
+The data used in part 2 is from **Kotah et al. (2025)**, *"Beyond the nuclear border: single-cell analysis of in situ sequenced human brain tissue using cellular features"* ([Nature Communications Biology](https://www.nature.com/articles/s42003-025-08518-6)), used with the kind permission of [Janssen M. Kotah](https://jmkotah.github.io/).
+
+The authors generated Xenium in situ sequencing (ISS) data from **formalin-fixed paraffin-embedded (FFPE) postmortem human brain tissue** (superior temporal / parietal gyrus) using the **266-gene Human Brain Panel**. They explored how different cell segmentation methods affect transcript allocation and cell type annotation.
